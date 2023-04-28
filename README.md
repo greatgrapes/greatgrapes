@@ -5,6 +5,7 @@
 ####  :wave: Welcome my github profile !
 
   
+  ![Grape's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatgrapes&show_icons=true&theme=스타일)
  <br/>
  <br/>
   
