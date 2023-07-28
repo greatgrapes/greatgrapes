@@ -27,7 +27,10 @@
 
 
 
+
 ## 💎 Social
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Grape)](https://velog.io/@jskiwi)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreatgrapes%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img align="left" width="288" src= "https://user-images.githubusercontent.com/30414956/161530265-4fed5300-560e-4493-91a3-75225b1e4b43.gif" />
