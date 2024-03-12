@@ -7,14 +7,8 @@
     - 매일 같이 일하고 싶은, 협업하고 싶은 개발자가 되고싶습니다.
     - 다양한 사람들과의 소통을 통해 성장하는 것을 좋아합니다.
 
-## 📚 Career
-
--**앨런 Swift 문법 마스터 스쿨 (BootCamp) 16기 수료**(2022.11 ~ 2023.01)
-
-
  ![Grape's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatgrapes&show_icons=true&theme=radical&hide=stars) 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agreatgrape1)](https://solved.ac/agreatgrape1/)
-
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agreatgrape1)](https://solved.ac/agreatgrape1/)    
 
 ## 🛠 Tech Stacks
 
