@@ -23,10 +23,3 @@
 **Framework**
 
 <img src="https://img.shields.io/badge/UIKit-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> 
-
-
-
-
-## 💎 Social
-[![Tistory's GitHub stats](https://Tistory-readme-stats.vercel.app/api/badge?name=Grape)](https://jskiwi.tistory.com/)
-</div>
