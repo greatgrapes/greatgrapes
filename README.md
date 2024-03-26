@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=&desc=iOS%20Developer&fontSize=90&rotate=0&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=73&&animation=twinkling)
  ## 🌊 Who Am I ?
