@@ -10,7 +10,7 @@
 - 다양한 사람들과의 소통을 통해 성장하는 것을 좋아합니다.
 ```
 
- ![Grape's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatgrapes&show_icons=true&theme=radical&hide=stars) 
+ ![Grape's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatgrapes&show_icons=true&theme=github_dark&hide=stars) 
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agreatgrape1)](https://solved.ac/agreatgrape1/)    
 
