@@ -10,13 +10,9 @@
 - 다양한 사람들과의 소통을 통해 성장하는 것을 좋아합니다.
 ```
 
-## 🛠 Tech Stacks
-
-**Language**
+## 🛠 Tech Stacks 
 
 ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-**Framework**
 
 <img src="https://img.shields.io/badge/UIKit-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-2396F3?style=for-the-badge&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
